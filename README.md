@@ -19,7 +19,7 @@
 - First, install Node.js if you haven't already. You can install it from the following [link](https://nodejs.org/en).
 - I also recommend installing [ImageMagick](https://imagemagick.org/script/download.php) as this script will continue to be developed.
 - Also install [FFmpeg](https://ffmpeg.org/) for future use.
-- And finally, install the [GIT](https://git-scm.com/downloads) requirements.
+- And finally, install the [GIT](https://git-scm.com/downloads) requirements
 
 ##
 
