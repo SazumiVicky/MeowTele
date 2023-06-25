@@ -8,9 +8,9 @@
 
 <h4>How to use</h4>
 
-- In the <code>.env</code> file, replace it with your Telegram bot token.
-- And to properly run its features, change the lolhuman API key in the <code>config.js</code> to your lolhuman API key.
-- Also, to change some of the texts you want to modify, modify the files in the directory <code>lib/command/filename.js</code>
+- In the <code>[.env](https://github.com/SazumiVicky/MeowTele/blob/main/.env)</code> file, replace it with your Telegram bot token.
+- And to properly run its features, change the lolhuman API key in the <code>[config.js](https://github.com/SazumiVicky/MeowTele/blob/main/config.js)</code> to your lolhuman API key.
+- Also, to change some of the texts you want to modify, modify the files in the directory <code>[src/command/filename.js](https://github.com/SazumiVicky/MeowTele/tree/main/src/command)</code>
 
 ##
 
