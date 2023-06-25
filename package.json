@@ -1,0 +1,38 @@
+{
+  "name": "meowtele",
+  "version": "1.0.0",
+  "description": "Just a telegram bot",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SazumiVicky/MeowTele.git"
+  },
+  "keywords": [
+    "sazumiviki",
+    "makemeow",
+    "bot-telegram",
+    "telegram",
+    "telegram-bot",
+    "bot",
+    "ayaka"
+  ],
+  "author": "Sazumi Viki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SazumiVicky/MeowTele/issues"
+  },
+  "homepage": "https://github.com/SazumiVicky/MeowTele#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chalk": "^5.2.0",
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "os": "^0.1.2"
+  }
+}
