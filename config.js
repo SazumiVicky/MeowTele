@@ -7,6 +7,6 @@
 */
 
 module.exports = {
-    lolhuman: 'ayakaviki'
+    lolhuman: 'YOUR_LOLKEY_HERE'
   };
   
